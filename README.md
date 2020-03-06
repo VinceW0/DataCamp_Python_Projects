@@ -1,5 +1,6 @@
 # DataCamp_Python_Projects
 
+Solutions to DataCamp projects in Python
 
 The Hottest Topics in Machine Learning
 
